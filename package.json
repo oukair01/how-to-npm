@@ -1,0 +1,23 @@
+{
+  "name": "blintz",
+  "version": "1.0.0",
+  "description": "to run apps faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "blintz test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm"
+  },
+  "keywords": [
+    "learn",
+    "to",
+    "npm",
+    "and",
+    "use",
+    "blintz"
+  ],
+  "author": "Onyinyechi Ukaire",
+  "license": "ISC"
+}
