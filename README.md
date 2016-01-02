@@ -1,6 +1,7 @@
 // trade mark name: Onyi Ukay
-This program is written to explore.
+
+Caution: this program is written to explode.
 
 After you run program, run away.
 
-Be careful!!!
+But be very careful!!!
